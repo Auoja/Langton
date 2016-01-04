@@ -2,6 +2,8 @@
 
 A simple js implementation of Langton's ant using multiple colors.
 
+![Example](/../images/images/example.png?raw=true)
+
 ##Usage
 
 ```javascript
